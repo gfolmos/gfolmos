@@ -27,13 +27,13 @@
 <tr>
 <td><b><a href="https://gfo-app-analyzer.streamlit.app">Analyzer</a></b></td>
 <td>⭐⭐⭐⭐⭐</td>
-<td>Interactive web tool that works as a virtual analyst using LLM + LangChain
+<td>AI Interactive web tool that works as a virtual analyst using LLM + LangChain
 Document Analyzer using LLM + LangChain</td>
 </tr>
 <tr>
 <td><b><a href="https://gfo-app-rag.streamlit.app">RAG</a></b></td>
 <td>⭐⭐⭐⭐</td>
-<td>Document Analyzer using LLM + LangChain</td>
+<td>AI Document Analyzer using LLM + LangChain</td>
 </tr>
 <tr>
 <td><b><a href="https://gfo-app-ventas.streamlit.app">Diagnostic Sales</a></b></td>
